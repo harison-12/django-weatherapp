@@ -7,7 +7,7 @@ First of all, unzip the zip file and activate the Virtual environment
 
 Install Virtual Env
 ```bash
-pip install virtualenv
+pip3 install virtualenv
 ```
 
 Activate Virtual env
@@ -16,7 +16,7 @@ source env/bin/activate
 ```
 
 ```bash
-pip install Django
+pip3 install Django
 ```
 
 ## Usage
