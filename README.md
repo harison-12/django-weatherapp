@@ -15,7 +15,6 @@ Activate Virtual env
 source env/bin/activate
 ```
 
-
 ```bash
 pip install Django
 ```
@@ -31,6 +30,4 @@ OpenWeatherMap
 [GNU General Public License v2.0]
 
 ## Developer
-
 Himal Dahal
-
